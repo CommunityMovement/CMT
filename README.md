@@ -1,0 +1,2 @@
+# CMT
+Community Mining Token
